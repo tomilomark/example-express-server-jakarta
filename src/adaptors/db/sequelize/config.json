@@ -1,0 +1,6 @@
+{
+  "development": {
+    "storage": "src/adaptors/db/sequelize/test.db",
+    "dialect": "sqlite"
+  }
+}
